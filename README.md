@@ -38,7 +38,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/<your-username>/personal-finance-app.git
+git clone https://github.com/yesh6289/Personal-Finance-Tracking-App.git
 cd personal-finance-app
 Install dependencies:
 
