@@ -46,30 +46,43 @@ Ensure you have Python 3.7 or later installed.
 Install bcrypt for secure password hashing:
 bash
 Copy code
+
 pip install bcrypt
+
 Run the application:
 
 bash
 Copy code
+
 python app.py
+
 Usage
+
 Start the App:
 
 Run app.py to launch the application.
+
 Follow the menu options for registration, login, and managing finances.
+
 Set Budgets:
 
 Use the "Set Budget" feature to define budgets for specific categories.
+
 Track Spending:
 
 Add income and expense transactions and check budget statuses.
+
 Generate Reports:
 
 Generate detailed reports for a specific month or year.
 Technologies Used
+
 Python: Core programming language.
+
 SQLite: Lightweight database for storing user, transaction, and budget data.
+
 bcrypt: Secure password hashing library.
+
 Example Workflow
 Register a User:
 Enter a username and password to create an account.
