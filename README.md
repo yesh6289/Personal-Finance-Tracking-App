@@ -47,14 +47,14 @@ Install bcrypt for secure password hashing:
 bash
 Copy code
 
-pip install bcrypt
+```pip install bcrypt```
 
 Run the application:
 
 bash
 Copy code
 
-python app.py
+```python app.py```
 
 Usage
 
